@@ -1,5 +1,6 @@
 # yolov5-tensorrt-python
 不依赖于pytorch,只用tensorrt和numpy进行加速,在1080ti上测试达到了160fps
+
 1.需要安装tensorrt python版
 
 2.安装pycuda
