@@ -5,7 +5,7 @@
 
 2.安装pycuda
 
-3.将训练好的模型（这里使用的是yolov5-4.0训练的）按照https://github.com/wang-xinyu/tensorrtx/tree/yolov5-v4.0/yolov5 上的方法转成libmyplugins.so和yolov5s.engine文件
+3.将训练好的模型（这里使用的是yolov5-4.0训练的s模型）按照https://github.com/wang-xinyu/tensorrtx/tree/yolov5-v4.0/yolov5 上的方法转成libmyplugins.so和yolov5s.engine文件
 
 4.修改dector_trt.py中categories里面的类别为自己的类别
 
